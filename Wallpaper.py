@@ -1,0 +1,1 @@
+/home/jdw/bin/Wallpaper.py
